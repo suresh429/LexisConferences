@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "397899438449",
+    "firebase_url": "https://lexisconference-34f3c.firebaseio.com",
+    "project_id": "lexisconference-34f3c",
+    "storage_bucket": "lexisconference-34f3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397899438449:android:f472c2cc4d06d3ee853ed0",
+        "android_client_info": {
+          "package_name": "com.applications.lexisconferences"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397899438449-b6aovifr3jod1m382q201nc27cr2cqbr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJfpcFe2uywq5esHMcSiPkOs60BcCbA9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397899438449-b6aovifr3jod1m382q201nc27cr2cqbr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

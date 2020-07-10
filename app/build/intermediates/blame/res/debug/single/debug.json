@@ -1,0 +1,526 @@
+[
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_registrations_list.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\layout\\fragment_registrations_list.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_abstract_list.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\layout\\fragment_abstract_list.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_date_range_orange.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\drawable\\ic_date_range_orange.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\layout_group_list_layout_my_countries.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\layout\\group_list_layout_my_countries.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\layout_row1.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\layout\\row1.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_networking.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\drawable\\ic_networking.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_main_drawer.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_home_black_24dp.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\drawable\\ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\layout_group_list_layout_choose_tracks.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\layout\\group_list_layout_choose_tracks.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ovalshape.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\drawable\\ovalshape.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_payment1.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\layout\\activity_payment1.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\drawable_homepage.jpg.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\drawable\\homepage.jpg"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_shedule.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\drawable\\ic_shedule.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_registrations_list.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\layout\\activity_registrations_list.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_feedback.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\drawable\\ic_feedback.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_add_24.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\drawable\\ic_baseline_add_24.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_user_registration.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\layout\\activity_user_registration.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\layout_success_payment.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\layout\\success_payment.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\layout_progressbar.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\layout\\progressbar.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_date_range.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\drawable\\ic_date_range.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\drawable_checkbox.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\drawable\\checkbox.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_google.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\drawable\\ic_google.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\layout_registration_item.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\layout\\registration_item.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_session_recording.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\drawable\\ic_session_recording.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_ouline_blue.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\drawable\\rounded_ouline_blue.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\layout_add_on_item.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\layout\\add_on_item.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custom_progress_bar.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\drawable\\custom_progress_bar.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\drawable_placeholder2.png.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\drawable\\placeholder2.png"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_ouline.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\drawable\\rounded_ouline.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\layout_absrtact_item.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\layout\\absrtact_item.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo.png.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_registration.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\drawable\\ic_registration.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_chat.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\drawable\\ic_chat.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_facebook.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\drawable\\ic_facebook.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_image.jpg.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\drawable\\background_image.jpg"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\drawable_radio_flat_selector.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\drawable\\radio_flat_selector.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_check_circle.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\drawable\\ic_check_circle.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_feed_back.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\layout\\activity_feed_back.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_home.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\layout\\content_home.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_corners.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\drawable\\rounded_corners.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\layout_group_list_layout_choose_countries.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\layout\\group_list_layout_choose_countries.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_registration.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\layout\\activity_registration.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\layout_progressbar1.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\layout\\progressbar1.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_date_range_blue.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\drawable\\ic_date_range_blue.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\layout_group_list_layout_my_tracks.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\layout\\group_list_layout_my_tracks.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_feedback_24.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\drawable\\ic_baseline_feedback_24.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_main.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\layout\\item_main.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_bookmark_black.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\drawable\\ic_bookmark_black.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_about_us.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\layout\\activity_about_us.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_progress.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\layout\\item_progress.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_search_black_24dp.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\drawable\\ic_search_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_ouline_black.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\drawable\\rounded_ouline_black.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_dinning.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\drawable\\ic_dinning.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_dash_board_acitivity.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\layout\\activity_dash_board_acitivity.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_overlay.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\drawable\\bg_overlay.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\layout_submit_abstract.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\layout\\submit_abstract.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_research_paper.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\drawable\\ic_research_paper.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_filter_list_black_24dp.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\drawable\\ic_filter_list_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\font_proxima_nova_bold.otf.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\font\\proxima_nova_bold.otf"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_sight_seeing.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\drawable\\ic_sight_seeing.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_arrow_back_black_24dp.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\drawable\\ic_arrow_back_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rbtn_selector_filter.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\drawable\\rbtn_selector_filter.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header_home.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\layout\\nav_header_home.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_how_to_reg_24.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\drawable\\ic_baseline_how_to_reg_24.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\drawable_radio_flat_regular.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\drawable\\radio_flat_regular.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_remove_24.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\drawable\\ic_baseline_remove_24.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\font_opensans_regular.ttf.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\font\\opensans_regular.ttf"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_home_list.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\layout\\item_home_list.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rbtn_textselector_filter.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\drawable\\rbtn_textselector_filter.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\layout_child_list_layout_choose_country.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\layout\\child_list_layout_choose_country.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_mail_24.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\drawable\\ic_baseline_mail_24.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_close_white_24dp.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\drawable\\ic_close_white_24dp.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_travel.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\drawable\\ic_travel.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\layout_view_item.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\layout\\view_item.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_info_black_24dp.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\drawable\\ic_info_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_bookmark_black_24dp.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\drawable\\ic_bookmark_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_hotel.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\drawable\\ic_hotel.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_submit_abstract.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\layout\\activity_submit_abstract.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_uncheck_circle.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\drawable\\ic_uncheck_circle.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_check_out.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\layout\\activity_check_out.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\layout_checkout_item.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\layout\\checkout_item.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_contact_us.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\layout\\activity_contact_us.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\drawable_image_not_available.jpg.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\drawable\\image_not_available.jpg"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_corners_blue.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\drawable\\rounded_corners_blue.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_share_black_24dp.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\drawable\\ic_share_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_arrow_downward_black_24dp.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\drawable\\ic_arrow_downward_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_call_24.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\drawable\\ic_baseline_call_24.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_button.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\drawable\\rounded_button.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_no_ouline.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\drawable\\rounded_no_ouline.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_location_black.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\drawable\\ic_location_black.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\drawable_drop.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\drawable\\drop.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_success.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\drawable\\ic_success.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_web.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\drawable\\ic_baseline_web.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_web_24.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\drawable\\ic_baseline_web_24.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\color_radio_flat_text_selector.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\color\\radio_flat_text_selector.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sessionsand_tracks.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\layout\\activity_sessionsand_tracks.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\drawable_radio_flat_selected.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\drawable\\radio_flat_selected.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_red_color.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\drawable\\rounded_red_color.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_filter.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\layout\\activity_filter.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_checkin.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\drawable\\ic_checkin.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_user_login.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\layout\\activity_user_login.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_home_list2.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\layout\\item_home_list2.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\xml_searchable.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\xml\\searchable.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_help_black_24dp.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\drawable\\ic_help_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\layout_banner_item.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\layout\\banner_item.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_payment.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\layout\\activity_payment.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\layout_child_list_layout_choose_tracks.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\layout\\child_list_layout_choose_tracks.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_location.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\drawable\\ic_location.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_brochure_download.xml.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\layout\\activity_brochure_download.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\res\\merged\\debug\\font_proxima_nova_regular.otf.flat",
+        "source": "E:\\Android projects\\HillarisConferences\\app\\src\\main\\res\\font\\proxima_nova_regular.otf"
+    }
+]
