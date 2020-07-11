@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zu\\values-zu.xml",
+            "outputFile": "E:\\Android projects\\LexisMeeting\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zu\\values-zu.xml",
             "map": [
                 {
                     "source": "C:\\Users\\sures\\.gradle\\caches\\transforms-2\\files-2.1\\95706d4ceec64f81eef9536fd8eeedfc\\jetified-firebase-messaging-20.2.1\\res\\values-zu\\values.xml",

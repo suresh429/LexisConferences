@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-pa\\values-pa.xml",
+            "outputFile": "E:\\Android projects\\LexisMeeting\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-pa\\values-pa.xml",
             "map": [
                 {
                     "source": "C:\\Users\\sures\\.gradle\\caches\\transforms-2\\files-2.1\\12c9503aef29ecc16bbadc69b4910e81\\jetified-facebook-login-5.15.3\\res\\values-pa\\values-pa.xml",

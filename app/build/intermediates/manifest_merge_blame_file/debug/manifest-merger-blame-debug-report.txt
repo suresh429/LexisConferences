@@ -1,27 +1,27 @@
 1<?xml version="1.0" encoding="utf-8"?>
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-3    package="com.applications.hillarisconferences"
+3    package="com.applications.lexismeeting"
 4    android:versionCode="1"
 5    android:versionName="1.0" >
 6
 7    <uses-sdk
 8        android:minSdkVersion="21"
-8-->E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml
+8-->E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="29" />
-9-->E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml
+9-->E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-11-->E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:6:5-79
-11-->E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:6:22-76
+11-->E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:6:5-79
+11-->E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:6:22-76
 12    <uses-permission android:name="android.permission.INTERNET" />
-12-->E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:7:5-67
-12-->E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:7:22-64
+12-->E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:7:5-67
+12-->E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:7:22-64
 13    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-13-->E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:8:5-80
-13-->E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:8:22-77
+13-->E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:8:5-80
+13-->E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:8:22-77
 14    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-14-->E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:9:5-81
-14-->E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:9:22-78
+14-->E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:9:5-81
+14-->E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:9:22-78
 15    <uses-permission android:name="android.permission.WAKE_LOCK" /> <!-- Required by older versions of Google Play services to create IID tokens -->
 15-->[com.google.android.gms:play-services-measurement-api:17.4.3] C:\Users\sures\.gradle\caches\transforms-2\files-2.1\d5552a3996f76de5fed58bcb0a1e63b5\jetified-play-services-measurement-api-17.4.3\AndroidManifest.xml:24:5-68
 15-->[com.google.android.gms:play-services-measurement-api:17.4.3] C:\Users\sures\.gradle\caches\transforms-2\files-2.1\d5552a3996f76de5fed58bcb0a1e63b5\jetified-play-services-measurement-api-17.4.3\AndroidManifest.xml:24:22-65
@@ -33,165 +33,165 @@
 17-->[com.google.android.gms:play-services-measurement:17.4.3] C:\Users\sures\.gradle\caches\transforms-2\files-2.1\8e50c4481e121e43b9fce9973d991103\jetified-play-services-measurement-17.4.3\AndroidManifest.xml:26:22-107
 18
 19    <application
-19-->E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:11:5-93:19
-20        android:name="com.applications.hillarisconferences.app.AppController"
-20-->E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:12:9-42
+19-->E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:11:5-93:19
+20        android:name="com.applications.lexismeeting.app.AppController"
+20-->E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:12:9-71
 21        android:allowBackup="true"
-21-->E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:13:9-35
+21-->E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:13:9-35
 22        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 22-->[androidx.core:core:1.1.0] C:\Users\sures\.gradle\caches\transforms-2\files-2.1\b2b51ad2129f7ae88186ad90508b79ab\core-1.1.0\AndroidManifest.xml:24:18-86
 23        android:debuggable="true"
 24        android:fullBackupContent="true"
-24-->E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:14:9-41
+24-->E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:14:9-41
 25        android:icon="@mipmap/ic_launcher"
-25-->E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:15:9-43
+25-->E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:15:9-43
 26        android:label="@string/app_name"
-26-->E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:16:9-41
+26-->E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:16:9-41
 27        android:roundIcon="@mipmap/ic_launcher_round"
-27-->E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:17:9-54
+27-->E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:17:9-54
 28        android:supportsRtl="true"
-28-->E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:18:9-35
+28-->E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:18:9-35
 29        android:testOnly="true"
 30        android:theme="@style/AppTheme"
-30-->E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:19:9-40
+30-->E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:19:9-40
 31        android:usesCleartextTraffic="true" >
-31-->E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:20:9-44
+31-->E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:20:9-44
 32        <activity
-32-->E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:23:9-26:52
-33            android:name="com.applications.hillarisconferences.activity.RegistrationsListActivity"
-33-->E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:24:13-63
+32-->E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:23:9-26:52
+33            android:name="com.applications.lexismeeting.activity.RegistrationsListActivity"
+33-->E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:24:13-92
 34            android:label="@string/title_activity_registrations_list"
-34-->E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:25:13-70
+34-->E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:25:13-70
 35            android:screenOrientation="portrait" />
-35-->E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:26:13-49
+35-->E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:26:13-49
 36        <activity
-36-->E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:27:9-29:52
-37            android:name="com.applications.hillarisconferences.activity.SessionsandTracksActivity"
-37-->E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:28:13-63
+36-->E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:27:9-29:52
+37            android:name="com.applications.lexismeeting.activity.SessionsandTracksActivity"
+37-->E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:28:13-92
 38            android:screenOrientation="portrait" />
-38-->E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:29:13-49
+38-->E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:29:13-49
 39        <activity
-39-->E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:30:9-32:52
-40            android:name="com.applications.hillarisconferences.activity.AboutUsActivity"
-40-->E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:31:13-53
+39-->E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:30:9-32:52
+40            android:name="com.applications.lexismeeting.activity.AboutUsActivity"
+40-->E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:31:13-82
 41            android:screenOrientation="portrait" />
-41-->E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:32:13-49
+41-->E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:32:13-49
 42        <activity
-42-->E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:33:9-35:52
-43            android:name="com.applications.hillarisconferences.activity.ContactUsActivity"
-43-->E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:34:13-55
+42-->E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:33:9-35:52
+43            android:name="com.applications.lexismeeting.activity.ContactUsActivity"
+43-->E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:34:13-84
 44            android:screenOrientation="portrait" />
-44-->E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:35:13-49
+44-->E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:35:13-49
 45        <activity
-45-->E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:36:9-38:52
-46            android:name="com.applications.hillarisconferences.activity.FeedBackActivity"
-46-->E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:37:13-54
+45-->E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:36:9-38:52
+46            android:name="com.applications.lexismeeting.activity.FeedBackActivity"
+46-->E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:37:13-83
 47            android:screenOrientation="portrait" />
-47-->E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:38:13-49
+47-->E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:38:13-49
 48        <activity
-48-->E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:39:9-41:52
-49            android:name="com.applications.hillarisconferences.activity.FilterActivity"
-49-->E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:40:13-52
+48-->E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:39:9-41:52
+49            android:name="com.applications.lexismeeting.activity.FilterActivity"
+49-->E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:40:13-81
 50            android:screenOrientation="portrait" />
-50-->E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:41:13-49
+50-->E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:41:13-49
 51        <activity
-51-->E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:42:9-44:52
-52            android:name="com.applications.hillarisconferences.activity.UserLoginActivity"
-52-->E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:43:13-55
+51-->E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:42:9-44:52
+52            android:name="com.applications.lexismeeting.activity.UserLoginActivity"
+52-->E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:43:13-84
 53            android:screenOrientation="portrait" />
-53-->E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:44:13-49
+53-->E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:44:13-49
 54        <activity
-54-->E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:45:9-47:52
-55            android:name="com.applications.hillarisconferences.activity.UserRegistrationActivity"
-55-->E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:46:13-62
+54-->E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:45:9-47:52
+55            android:name="com.applications.lexismeeting.activity.UserRegistrationActivity"
+55-->E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:46:13-91
 56            android:screenOrientation="portrait" />
-56-->E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:47:13-49
+56-->E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:47:13-49
 57        <activity
-57-->E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:48:9-50:52
-58            android:name="com.applications.hillarisconferences.activity.BrochureDownloadActivity"
-58-->E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:49:13-62
+57-->E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:48:9-50:52
+58            android:name="com.applications.lexismeeting.activity.BrochureDownloadActivity"
+58-->E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:49:13-91
 59            android:screenOrientation="portrait" />
-59-->E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:50:13-49
+59-->E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:50:13-49
 60        <activity
-60-->E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:51:9-54:63
-61            android:name="com.applications.hillarisconferences.activity.SubmitAbstractActivity"
-61-->E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:52:13-60
+60-->E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:51:9-54:63
+61            android:name="com.applications.lexismeeting.activity.SubmitAbstractActivity"
+61-->E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:52:13-89
 62            android:screenOrientation="portrait"
-62-->E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:53:13-49
+62-->E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:53:13-49
 63            android:windowSoftInputMode="stateAlwaysHidden" />
-63-->E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:54:13-60
+63-->E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:54:13-60
 64        <activity
-64-->E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:55:9-58:63
-65            android:name="com.applications.hillarisconferences.activity.CheckOutActivity"
-65-->E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:56:13-54
+64-->E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:55:9-58:63
+65            android:name="com.applications.lexismeeting.activity.CheckOutActivity"
+65-->E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:56:13-83
 66            android:screenOrientation="portrait"
-66-->E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:57:13-49
+66-->E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:57:13-49
 67            android:windowSoftInputMode="stateAlwaysHidden" />
-67-->E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:58:13-60
+67-->E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:58:13-60
 68        <activity
-68-->E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:59:9-61:52
-69            android:name="com.applications.hillarisconferences.activity.PaymentActivity1"
-69-->E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:60:13-54
+68-->E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:59:9-61:52
+69            android:name="com.applications.lexismeeting.activity.PaymentActivity1"
+69-->E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:60:13-83
 70            android:screenOrientation="portrait" />
-70-->E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:61:13-49
+70-->E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:61:13-49
 71        <activity
-71-->E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:62:9-64:52
-72            android:name="com.applications.hillarisconferences.activity.PersonalInfoActivity"
-72-->E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:63:13-58
+71-->E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:62:9-64:52
+72            android:name="com.applications.lexismeeting.activity.PersonalInfoActivity"
+72-->E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:63:13-87
 73            android:screenOrientation="portrait" />
-73-->E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:64:13-49
+73-->E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:64:13-49
 74        <activity
-74-->E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:65:9-73:20
-75            android:name="com.applications.hillarisconferences.activity.SplashActivity"
-75-->E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:66:13-52
+74-->E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:65:9-73:20
+75            android:name="com.applications.lexismeeting.activity.SplashActivity"
+75-->E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:66:13-81
 76            android:screenOrientation="portrait" >
-76-->E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:67:13-49
+76-->E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:67:13-49
 77            <intent-filter>
-77-->E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:68:13-72:29
+77-->E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:68:13-72:29
 78                <action android:name="android.intent.action.MAIN" />
-78-->E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:69:17-69
-78-->E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:69:25-66
+78-->E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:69:17-69
+78-->E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:69:25-66
 79
 80                <category android:name="android.intent.category.LAUNCHER" />
-80-->E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:71:17-77
-80-->E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:71:27-74
+80-->E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:71:17-77
+80-->E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:71:27-74
 81            </intent-filter>
 82        </activity>
 83        <activity
-83-->E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:74:9-76:52
-84            android:name="com.applications.hillarisconferences.activity.DashBoardActivity"
-84-->E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:75:13-55
+83-->E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:74:9-76:52
+84            android:name="com.applications.lexismeeting.activity.DashBoardActivity"
+84-->E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:75:13-84
 85            android:screenOrientation="portrait" />
-85-->E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:76:13-49
+85-->E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:76:13-49
 86        <activity
-86-->E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:77:9-88:20
-87            android:name="com.applications.hillarisconferences.activity.HomeActivity"
-87-->E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:78:13-50
+86-->E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:77:9-88:20
+87            android:name="com.applications.lexismeeting.activity.HomeActivity"
+87-->E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:78:13-79
 88            android:screenOrientation="portrait"
-88-->E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:79:13-49
+88-->E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:79:13-49
 89            android:theme="@style/AppThemeNav" >
-89-->E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:80:13-47
+89-->E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:80:13-47
 90            <intent-filter>
-90-->E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:81:13-83:29
+90-->E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:81:13-83:29
 91                <action android:name="android.intent.action.SEARCH" />
-91-->E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:82:17-71
-91-->E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:82:25-68
+91-->E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:82:17-71
+91-->E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:82:25-68
 92            </intent-filter>
 93
 94            <meta-data
-94-->E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:85:13-87:54
+94-->E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:85:13-87:54
 95                android:name="android.app.searchable"
-95-->E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:86:17-54
+95-->E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:86:17-54
 96                android:resource="@xml/searchable" />
-96-->E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:87:17-51
+96-->E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:87:17-51
 97        </activity>
 98
 99        <uses-library
-99-->E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:90:9-92:40
+99-->E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:90:9-92:40
 100            android:name="org.apache.http.legacy"
-100-->E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:91:13-50
+100-->E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:91:13-50
 101            android:required="false" />
-101-->E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:92:13-37
+101-->E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:92:13-37
 102
 103        <activity
 103-->[com.karumi:dexter:6.0.0] C:\Users\sures\.gradle\caches\transforms-2\files-2.1\5b617dec801eace1a4b9af6113fd840c\jetified-dexter-6.0.0\AndroidManifest.xml:27:9-29:72
@@ -273,7 +273,7 @@
 140
 141                <data
 141-->[com.facebook.android:facebook-common:5.15.3] C:\Users\sures\.gradle\caches\transforms-2\files-2.1\ead4e2302c524010bd460d9d5e5ec247\jetified-facebook-common-5.15.3\AndroidManifest.xml:45:17-47:50
-142                    android:host="cct.com.applications.hillarisconferences"
+142                    android:host="cct.com.applications.lexismeeting"
 142-->[com.facebook.android:facebook-common:5.15.3] C:\Users\sures\.gradle\caches\transforms-2\files-2.1\ead4e2302c524010bd460d9d5e5ec247\jetified-facebook-common-5.15.3\AndroidManifest.xml:46:21-56
 143                    android:scheme="fbconnect" />
 143-->[com.facebook.android:facebook-common:5.15.3] C:\Users\sures\.gradle\caches\transforms-2\files-2.1\ead4e2302c524010bd460d9d5e5ec247\jetified-facebook-common-5.15.3\AndroidManifest.xml:47:21-47
@@ -459,7 +459,7 @@
 243-->[com.google.firebase:firebase-common:19.3.0] C:\Users\sures\.gradle\caches\transforms-2\files-2.1\9f50104a3ed305ca2fc55bd80a29800d\jetified-firebase-common-19.3.0\AndroidManifest.xml:26:9-30:39
 244            android:name="com.google.firebase.provider.FirebaseInitProvider"
 244-->[com.google.firebase:firebase-common:19.3.0] C:\Users\sures\.gradle\caches\transforms-2\files-2.1\9f50104a3ed305ca2fc55bd80a29800d\jetified-firebase-common-19.3.0\AndroidManifest.xml:27:13-77
-245            android:authorities="com.applications.hillarisconferences.firebaseinitprovider"
+245            android:authorities="com.applications.lexismeeting.firebaseinitprovider"
 245-->[com.google.firebase:firebase-common:19.3.0] C:\Users\sures\.gradle\caches\transforms-2\files-2.1\9f50104a3ed305ca2fc55bd80a29800d\jetified-firebase-common-19.3.0\AndroidManifest.xml:28:13-72
 246            android:exported="false"
 246-->[com.google.firebase:firebase-common:19.3.0] C:\Users\sures\.gradle\caches\transforms-2\files-2.1\9f50104a3ed305ca2fc55bd80a29800d\jetified-firebase-common-19.3.0\AndroidManifest.xml:29:13-37
@@ -485,7 +485,7 @@
 261-->[com.facebook.android:facebook-core:5.15.3] C:\Users\sures\.gradle\caches\transforms-2\files-2.1\7e0f052f38521fd2fbc701cc28c2c257\jetified-facebook-core-5.15.3\AndroidManifest.xml:39:9-42:40
 262            android:name="com.facebook.internal.FacebookInitProvider"
 262-->[com.facebook.android:facebook-core:5.15.3] C:\Users\sures\.gradle\caches\transforms-2\files-2.1\7e0f052f38521fd2fbc701cc28c2c257\jetified-facebook-core-5.15.3\AndroidManifest.xml:40:13-70
-263            android:authorities="com.applications.hillarisconferences.FacebookInitProvider"
+263            android:authorities="com.applications.lexismeeting.FacebookInitProvider"
 263-->[com.facebook.android:facebook-core:5.15.3] C:\Users\sures\.gradle\caches\transforms-2\files-2.1\7e0f052f38521fd2fbc701cc28c2c257\jetified-facebook-core-5.15.3\AndroidManifest.xml:41:13-72
 264            android:exported="false" />
 264-->[com.facebook.android:facebook-core:5.15.3] C:\Users\sures\.gradle\caches\transforms-2\files-2.1\7e0f052f38521fd2fbc701cc28c2c257\jetified-facebook-core-5.15.3\AndroidManifest.xml:42:13-37
@@ -508,7 +508,7 @@
 274-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\sures\.gradle\caches\transforms-2\files-2.1\d8929896c297176375105c9444083cbd\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
 275            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
 275-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\sures\.gradle\caches\transforms-2\files-2.1\d8929896c297176375105c9444083cbd\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79
-276            android:authorities="com.applications.hillarisconferences.lifecycle-process"
+276            android:authorities="com.applications.lexismeeting.lifecycle-process"
 276-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\sures\.gradle\caches\transforms-2\files-2.1\d8929896c297176375105c9444083cbd\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
 277            android:exported="false"
 277-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\sures\.gradle\caches\transforms-2\files-2.1\d8929896c297176375105c9444083cbd\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37

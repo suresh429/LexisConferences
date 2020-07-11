@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sk\\values-sk.xml",
+            "outputFile": "E:\\Android projects\\LexisMeeting\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sk\\values-sk.xml",
             "map": [
                 {
                     "source": "C:\\Users\\sures\\.gradle\\caches\\transforms-2\\files-2.1\\663210140a868d1e52c74dd3abb47a3f\\browser-1.2.0\\res\\values-sk\\values-sk.xml",

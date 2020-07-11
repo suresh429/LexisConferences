@@ -1,34 +1,34 @@
 {
   "project_info": {
-    "project_number": "397899438449",
-    "firebase_url": "https://lexisconference-34f3c.firebaseio.com",
-    "project_id": "lexisconference-34f3c",
-    "storage_bucket": "lexisconference-34f3c.appspot.com"
+    "project_number": "454936317475",
+    "firebase_url": "https://lexismeeting-d3118.firebaseio.com",
+    "project_id": "lexismeeting-d3118",
+    "storage_bucket": "lexismeeting-d3118.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:397899438449:android:f472c2cc4d06d3ee853ed0",
+        "mobilesdk_app_id": "1:454936317475:android:e7923220be968c47c36b96",
         "android_client_info": {
-          "package_name": "com.applications.lexisconferences"
+          "package_name": "com.applications.lexismeeting"
         }
       },
       "oauth_client": [
         {
-          "client_id": "397899438449-b6aovifr3jod1m382q201nc27cr2cqbr.apps.googleusercontent.com",
+          "client_id": "454936317475-1jio9vg0g6naqr0co68u4bo3jvbn0210.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAJfpcFe2uywq5esHMcSiPkOs60BcCbA9k"
+          "current_key": "AIzaSyABw0RgNq-OCAAfjRoHeZiHQL-iKSSsfyU"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "397899438449-b6aovifr3jod1m382q201nc27cr2cqbr.apps.googleusercontent.com",
+              "client_id": "454936317475-1jio9vg0g6naqr0co68u4bo3jvbn0210.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

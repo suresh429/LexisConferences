@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\Android projects\\HillarisConferences\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hi\\values-hi.xml",
+            "outputFile": "E:\\Android projects\\LexisMeeting\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hi\\values-hi.xml",
             "map": [
                 {
                     "source": "C:\\Users\\sures\\.gradle\\caches\\transforms-2\\files-2.1\\78b13228d1b7806e4595749364e08dfc\\jetified-play-services-base-17.1.0\\res\\values-hi\\values.xml",

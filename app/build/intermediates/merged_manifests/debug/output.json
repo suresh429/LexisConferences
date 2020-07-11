@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "applicationId": "com.applications.hillarisconferences",
+  "applicationId": "com.applications.lexismeeting",
   "variantType": "BASE_APK",
   "elements": [
     {
@@ -19,7 +19,7 @@
       },
       "path": "AndroidManifest.xml",
       "properties": {
-        "packageId": "com.applications.hillarisconferences",
+        "packageId": "com.applications.lexismeeting",
         "split": "",
         "minSdkVersion": "21"
       }

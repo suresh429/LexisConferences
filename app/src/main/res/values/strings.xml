@@ -1,5 +1,5 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <string name="app_name">Lexis Conferences</string>
+    <string name="app_name">Lexis Meeting</string>
     <string name="home">Home</string>
     <string name="about_us">About Us</string>
     <string name="contact_us">Contact Us</string>

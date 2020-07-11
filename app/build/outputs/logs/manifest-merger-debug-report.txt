@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:2:1-95:12
-INJECTED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:2:1-95:12
-INJECTED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:2:1-95:12
-INJECTED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:2:1-95:12
+ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:2:1-95:12
+INJECTED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:2:1-95:12
+INJECTED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:2:1-95:12
+INJECTED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:2:1-95:12
 MERGED from [com.karumi:dexter:6.0.0] C:\Users\sures\.gradle\caches\transforms-2\files-2.1\5b617dec801eace1a4b9af6113fd840c\jetified-dexter-6.0.0\AndroidManifest.xml:17:1-32:12
 MERGED from [com.stripe:stripe-android:14.1.1] C:\Users\sures\.gradle\caches\transforms-2\files-2.1\be0826c4a3e857420b4f45d27a26929b\jetified-stripe-android-14.1.1\AndroidManifest.xml:2:1-29:12
 MERGED from [com.stripe:stripe-3ds2-android:2.5.4] C:\Users\sures\.gradle\caches\transforms-2\files-2.1\cf49aefd7ea5e616f5a5c7e144a773dd\jetified-stripe-3ds2-android-2.5.4\AndroidManifest.xml:2:1-20:12
@@ -94,27 +94,27 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\sures\.gradle\ca
 MERGED from [androidx.print:print:1.0.0] C:\Users\sures\.gradle\caches\transforms-2\files-2.1\b55ae32354d6a01c1a54b392cc10599e\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.datatransport:transport-api:2.2.0] C:\Users\sures\.gradle\caches\transforms-2\files-2.1\bc918020bbc60f26a2ba0d51df8e7595\jetified-transport-api-2.2.0\AndroidManifest.xml:15:1-22:12
 MERGED from [com.android.installreferrer:installreferrer:1.0] C:\Users\sures\.gradle\caches\transforms-2\files-2.1\05aefa0879520cc45e5f66fbe300b494\jetified-installreferrer-1.0\AndroidManifest.xml:2:1-13:12
-INJECTED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:2:1-95:12
-INJECTED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:2:1-95:12
-INJECTED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:2:1-95:12
+INJECTED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:2:1-95:12
+INJECTED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:2:1-95:12
+INJECTED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:2:1-95:12
 	package
-		ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:4:5-51
-		INJECTED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml
-		INJECTED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml
+		ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:4:5-44
+		INJECTED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml
-		ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:2:1-95:12
-		INJECTED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml
+		ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:2:1-95:12
+		INJECTED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml
 	xmlns:tools
-		ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:3:5-51
+		ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml
-		ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:2:1-95:12
-		INJECTED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml
+		ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:2:1-95:12
+		INJECTED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:6:5-79
+ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:6:5-79
 MERGED from [com.google.firebase:firebase-config:19.1.4] C:\Users\sures\.gradle\caches\transforms-2\files-2.1\6407fc8558f1adcafc3b21f7cb3bb719\jetified-firebase-config-19.1.4\AndroidManifest.xml:25:5-79
 MERGED from [com.google.firebase:firebase-config:19.1.4] C:\Users\sures\.gradle\caches\transforms-2\files-2.1\6407fc8558f1adcafc3b21f7cb3bb719\jetified-firebase-config-19.1.4\AndroidManifest.xml:25:5-79
 MERGED from [com.google.android.gms:play-services-measurement-api:17.4.3] C:\Users\sures\.gradle\caches\transforms-2\files-2.1\d5552a3996f76de5fed58bcb0a1e63b5\jetified-play-services-measurement-api-17.4.3\AndroidManifest.xml:23:5-79
@@ -134,9 +134,9 @@ MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Us
 MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\sures\.gradle\caches\transforms-2\files-2.1\59f77f167f08297046aaa1a76f60e3e2\jetified-transport-runtime-2.2.0\AndroidManifest.xml:22:5-79
 MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\sures\.gradle\caches\transforms-2\files-2.1\59f77f167f08297046aaa1a76f60e3e2\jetified-transport-runtime-2.2.0\AndroidManifest.xml:22:5-79
 	android:name
-		ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:6:22-76
+		ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:6:22-76
 uses-permission#android.permission.INTERNET
-ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:7:5-67
+ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:7:5-67
 MERGED from [com.google.firebase:firebase-config:19.1.4] C:\Users\sures\.gradle\caches\transforms-2\files-2.1\6407fc8558f1adcafc3b21f7cb3bb719\jetified-firebase-config-19.1.4\AndroidManifest.xml:26:5-67
 MERGED from [com.google.firebase:firebase-config:19.1.4] C:\Users\sures\.gradle\caches\transforms-2\files-2.1\6407fc8558f1adcafc3b21f7cb3bb719\jetified-firebase-config-19.1.4\AndroidManifest.xml:26:5-67
 MERGED from [com.google.android.gms:play-services-measurement-api:17.4.3] C:\Users\sures\.gradle\caches\transforms-2\files-2.1\d5552a3996f76de5fed58bcb0a1e63b5\jetified-play-services-measurement-api-17.4.3\AndroidManifest.xml:22:5-67
@@ -154,17 +154,17 @@ MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.4.3] C:
 MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\sures\.gradle\caches\transforms-2\files-2.1\d5a682cedb4d3857fe701725736f7c97\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:26:5-67
 MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\sures\.gradle\caches\transforms-2\files-2.1\d5a682cedb4d3857fe701725736f7c97\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:26:5-67
 	android:name
-		ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:7:22-64
+		ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:7:22-64
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:8:5-80
+ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:8:5-80
 	android:name
-		ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:8:22-77
+		ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:8:22-77
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:9:5-81
+ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:9:5-81
 	android:name
-		ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:9:22-78
+		ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:9:22-78
 application
-ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:11:5-93:19
+ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:11:5-93:19
 MERGED from [com.karumi:dexter:6.0.0] C:\Users\sures\.gradle\caches\transforms-2\files-2.1\5b617dec801eace1a4b9af6113fd840c\jetified-dexter-6.0.0\AndroidManifest.xml:26:5-30:19
 MERGED from [com.karumi:dexter:6.0.0] C:\Users\sures\.gradle\caches\transforms-2\files-2.1\5b617dec801eace1a4b9af6113fd840c\jetified-dexter-6.0.0\AndroidManifest.xml:26:5-30:19
 MERGED from [com.stripe:stripe-android:14.1.1] C:\Users\sures\.gradle\caches\transforms-2\files-2.1\be0826c4a3e857420b4f45d27a26929b\jetified-stripe-android-14.1.1\AndroidManifest.xml:11:5-27:19
@@ -254,163 +254,163 @@ MERGED from [com.android.installreferrer:installreferrer:1.0] C:\Users\sures\.gr
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.1.0] C:\Users\sures\.gradle\caches\transforms-2\files-2.1\b2b51ad2129f7ae88186ad90508b79ab\core-1.1.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:18:9-35
+		ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:18:9-35
 	android:label
-		ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:16:9-41
+		ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:16:9-41
 	android:fullBackupContent
-		ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:14:9-41
+		ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:14:9-41
 	tools:ignore
-		ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:21:9-48
+		ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:21:9-48
 	android:roundIcon
-		ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:17:9-54
+		ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:17:9-54
 	tools:targetApi
-		ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:22:9-28
+		ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:22:9-28
 	android:icon
-		ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:15:9-43
+		ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:15:9-43
 	android:allowBackup
-		ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:13:9-35
+		ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:13:9-35
 	android:theme
-		ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:19:9-40
+		ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:19:9-40
 	android:usesCleartextTraffic
-		ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:20:9-44
+		ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:20:9-44
 	android:name
-		ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:12:9-42
-activity#com.applications.hillarisconferences.activity.RegistrationsListActivity
-ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:23:9-26:52
+		ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:12:9-71
+activity#com.applications.lexismeeting.activity.RegistrationsListActivity
+ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:23:9-26:52
 	android:screenOrientation
-		ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:26:13-49
+		ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:26:13-49
 	android:label
-		ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:25:13-70
+		ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:25:13-70
 	android:name
-		ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:24:13-63
-activity#com.applications.hillarisconferences.activity.SessionsandTracksActivity
-ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:27:9-29:52
+		ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:24:13-92
+activity#com.applications.lexismeeting.activity.SessionsandTracksActivity
+ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:27:9-29:52
 	android:screenOrientation
-		ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:29:13-49
+		ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:29:13-49
 	android:name
-		ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:28:13-63
-activity#com.applications.hillarisconferences.activity.AboutUsActivity
-ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:30:9-32:52
+		ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:28:13-92
+activity#com.applications.lexismeeting.activity.AboutUsActivity
+ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:30:9-32:52
 	android:screenOrientation
-		ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:32:13-49
+		ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:32:13-49
 	android:name
-		ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:31:13-53
-activity#com.applications.hillarisconferences.activity.ContactUsActivity
-ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:33:9-35:52
+		ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:31:13-82
+activity#com.applications.lexismeeting.activity.ContactUsActivity
+ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:33:9-35:52
 	android:screenOrientation
-		ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:35:13-49
+		ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:35:13-49
 	android:name
-		ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:34:13-55
-activity#com.applications.hillarisconferences.activity.FeedBackActivity
-ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:36:9-38:52
+		ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:34:13-84
+activity#com.applications.lexismeeting.activity.FeedBackActivity
+ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:36:9-38:52
 	android:screenOrientation
-		ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:38:13-49
+		ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:38:13-49
 	android:name
-		ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:37:13-54
-activity#com.applications.hillarisconferences.activity.FilterActivity
-ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:39:9-41:52
+		ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:37:13-83
+activity#com.applications.lexismeeting.activity.FilterActivity
+ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:39:9-41:52
 	android:screenOrientation
-		ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:41:13-49
+		ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:41:13-49
 	android:name
-		ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:40:13-52
-activity#com.applications.hillarisconferences.activity.UserLoginActivity
-ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:42:9-44:52
+		ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:40:13-81
+activity#com.applications.lexismeeting.activity.UserLoginActivity
+ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:42:9-44:52
 	android:screenOrientation
-		ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:44:13-49
+		ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:44:13-49
 	android:name
-		ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:43:13-55
-activity#com.applications.hillarisconferences.activity.UserRegistrationActivity
-ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:45:9-47:52
+		ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:43:13-84
+activity#com.applications.lexismeeting.activity.UserRegistrationActivity
+ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:45:9-47:52
 	android:screenOrientation
-		ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:47:13-49
+		ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:47:13-49
 	android:name
-		ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:46:13-62
-activity#com.applications.hillarisconferences.activity.BrochureDownloadActivity
-ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:48:9-50:52
+		ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:46:13-91
+activity#com.applications.lexismeeting.activity.BrochureDownloadActivity
+ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:48:9-50:52
 	android:screenOrientation
-		ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:50:13-49
+		ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:50:13-49
 	android:name
-		ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:49:13-62
-activity#com.applications.hillarisconferences.activity.SubmitAbstractActivity
-ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:51:9-54:63
+		ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:49:13-91
+activity#com.applications.lexismeeting.activity.SubmitAbstractActivity
+ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:51:9-54:63
 	android:screenOrientation
-		ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:53:13-49
+		ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:53:13-49
 	android:windowSoftInputMode
-		ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:54:13-60
+		ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:54:13-60
 	android:name
-		ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:52:13-60
-activity#com.applications.hillarisconferences.activity.CheckOutActivity
-ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:55:9-58:63
+		ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:52:13-89
+activity#com.applications.lexismeeting.activity.CheckOutActivity
+ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:55:9-58:63
 	android:screenOrientation
-		ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:57:13-49
+		ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:57:13-49
 	android:windowSoftInputMode
-		ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:58:13-60
+		ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:58:13-60
 	android:name
-		ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:56:13-54
-activity#com.applications.hillarisconferences.activity.PaymentActivity1
-ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:59:9-61:52
+		ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:56:13-83
+activity#com.applications.lexismeeting.activity.PaymentActivity1
+ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:59:9-61:52
 	android:screenOrientation
-		ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:61:13-49
+		ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:61:13-49
 	android:name
-		ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:60:13-54
-activity#com.applications.hillarisconferences.activity.PersonalInfoActivity
-ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:62:9-64:52
+		ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:60:13-83
+activity#com.applications.lexismeeting.activity.PersonalInfoActivity
+ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:62:9-64:52
 	android:screenOrientation
-		ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:64:13-49
+		ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:64:13-49
 	android:name
-		ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:63:13-58
-activity#com.applications.hillarisconferences.activity.SplashActivity
-ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:65:9-73:20
+		ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:63:13-87
+activity#com.applications.lexismeeting.activity.SplashActivity
+ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:65:9-73:20
 	android:screenOrientation
-		ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:67:13-49
+		ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:67:13-49
 	android:name
-		ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:66:13-52
+		ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:66:13-81
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:68:13-72:29
+ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:68:13-72:29
 action#android.intent.action.MAIN
-ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:69:17-69
+ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:69:17-69
 	android:name
-		ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:69:25-66
+		ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:69:25-66
 category#android.intent.category.LAUNCHER
-ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:71:17-77
+ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:71:17-77
 	android:name
-		ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:71:27-74
-activity#com.applications.hillarisconferences.activity.DashBoardActivity
-ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:74:9-76:52
+		ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:71:27-74
+activity#com.applications.lexismeeting.activity.DashBoardActivity
+ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:74:9-76:52
 	android:screenOrientation
-		ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:76:13-49
+		ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:76:13-49
 	android:name
-		ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:75:13-55
-activity#com.applications.hillarisconferences.activity.HomeActivity
-ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:77:9-88:20
+		ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:75:13-84
+activity#com.applications.lexismeeting.activity.HomeActivity
+ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:77:9-88:20
 	android:screenOrientation
-		ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:79:13-49
+		ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:79:13-49
 	android:theme
-		ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:80:13-47
+		ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:80:13-47
 	android:name
-		ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:78:13-50
+		ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:78:13-79
 intent-filter#action:name:android.intent.action.SEARCH
-ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:81:13-83:29
+ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:81:13-83:29
 action#android.intent.action.SEARCH
-ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:82:17-71
+ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:82:17-71
 	android:name
-		ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:82:25-68
+		ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:82:25-68
 meta-data#android.app.searchable
-ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:85:13-87:54
+ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:85:13-87:54
 	android:resource
-		ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:87:17-51
+		ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:87:17-51
 	android:name
-		ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:86:17-54
+		ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:86:17-54
 uses-library#org.apache.http.legacy
-ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:90:9-92:40
+ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:90:9-92:40
 	android:required
-		ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:92:13-37
+		ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:92:13-37
 	android:name
-		ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml:91:13-50
+		ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml:91:13-50
 uses-sdk
-INJECTED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml
-INJECTED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml
+INJECTED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml
+INJECTED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml
 MERGED from [com.karumi:dexter:6.0.0] C:\Users\sures\.gradle\caches\transforms-2\files-2.1\5b617dec801eace1a4b9af6113fd840c\jetified-dexter-6.0.0\AndroidManifest.xml:22:5-24:41
 MERGED from [com.karumi:dexter:6.0.0] C:\Users\sures\.gradle\caches\transforms-2\files-2.1\5b617dec801eace1a4b9af6113fd840c\jetified-dexter-6.0.0\AndroidManifest.xml:22:5-24:41
 MERGED from [com.stripe:stripe-android:14.1.1] C:\Users\sures\.gradle\caches\transforms-2\files-2.1\be0826c4a3e857420b4f45d27a26929b\jetified-stripe-android-14.1.1\AndroidManifest.xml:7:5-9:41
@@ -591,16 +591,16 @@ MERGED from [com.google.android.datatransport:transport-api:2.2.0] C:\Users\sure
 MERGED from [com.google.android.datatransport:transport-api:2.2.0] C:\Users\sures\.gradle\caches\transforms-2\files-2.1\bc918020bbc60f26a2ba0d51df8e7595\jetified-transport-api-2.2.0\AndroidManifest.xml:18:5-20:41
 MERGED from [com.android.installreferrer:installreferrer:1.0] C:\Users\sures\.gradle\caches\transforms-2\files-2.1\05aefa0879520cc45e5f66fbe300b494\jetified-installreferrer-1.0\AndroidManifest.xml:5:5-7:41
 MERGED from [com.android.installreferrer:installreferrer:1.0] C:\Users\sures\.gradle\caches\transforms-2\files-2.1\05aefa0879520cc45e5f66fbe300b494\jetified-installreferrer-1.0\AndroidManifest.xml:5:5-7:41
-INJECTED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml
-INJECTED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml
+INJECTED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml
+INJECTED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml
-		ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml
-		INJECTED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml
+		ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml
-		ADDED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml
-		INJECTED from E:\Android projects\HillarisConferences\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml
+		ADDED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android projects\LexisMeeting\app\src\main\AndroidManifest.xml
 activity#com.karumi.dexter.DexterActivity
 ADDED from [com.karumi:dexter:6.0.0] C:\Users\sures\.gradle\caches\transforms-2\files-2.1\5b617dec801eace1a4b9af6113fd840c\jetified-dexter-6.0.0\AndroidManifest.xml:27:9-29:72
 	android:theme
@@ -671,7 +671,7 @@ ADDED from [com.facebook.android:facebook-common:5.15.3] C:\Users\sures\.gradle\
 		ADDED from [com.facebook.android:facebook-common:5.15.3] C:\Users\sures\.gradle\caches\transforms-2\files-2.1\ead4e2302c524010bd460d9d5e5ec247\jetified-facebook-common-5.15.3\AndroidManifest.xml:36:13-58
 intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:cct.${applicationId}+data:scheme:fbconnect
 ADDED from [com.facebook.android:facebook-common:5.15.3] C:\Users\sures\.gradle\caches\transforms-2\files-2.1\ead4e2302c524010bd460d9d5e5ec247\jetified-facebook-common-5.15.3\AndroidManifest.xml:39:13-48:29
-intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:cct.com.applications.hillarisconferences+data:scheme:fbconnect
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:cct.com.applications.lexismeeting+data:scheme:fbconnect
 ADDED from [com.facebook.android:facebook-common:5.15.3] C:\Users\sures\.gradle\caches\transforms-2\files-2.1\ead4e2302c524010bd460d9d5e5ec247\jetified-facebook-common-5.15.3\AndroidManifest.xml:39:13-48:29
 action#android.intent.action.VIEW
 ADDED from [com.facebook.android:facebook-common:5.15.3] C:\Users\sures\.gradle\caches\transforms-2\files-2.1\ead4e2302c524010bd460d9d5e5ec247\jetified-facebook-common-5.15.3\AndroidManifest.xml:40:17-69

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.applications.hillarisconferences"
+    package="com.applications.lexismeeting"
     android:targetSandboxVersion="2"
     android:versionCode="1"
     android:versionName="1.0" >
@@ -18,7 +18,7 @@
     <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
 
     <application
-        android:name="com.applications.hillarisconferences.app.AppController"
+        android:name="com.applications.lexismeeting.app.AppController"
         android:allowBackup="true"
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
         android:debuggable="true"
@@ -31,49 +31,49 @@
         android:theme="@style/AppTheme"
         android:usesCleartextTraffic="true" >
         <activity
-            android:name="com.applications.hillarisconferences.activity.RegistrationsListActivity"
+            android:name="com.applications.lexismeeting.activity.RegistrationsListActivity"
             android:label="@string/title_activity_registrations_list"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.applications.hillarisconferences.activity.SessionsandTracksActivity"
+            android:name="com.applications.lexismeeting.activity.SessionsandTracksActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.applications.hillarisconferences.activity.AboutUsActivity"
+            android:name="com.applications.lexismeeting.activity.AboutUsActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.applications.hillarisconferences.activity.ContactUsActivity"
+            android:name="com.applications.lexismeeting.activity.ContactUsActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.applications.hillarisconferences.activity.FeedBackActivity"
+            android:name="com.applications.lexismeeting.activity.FeedBackActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.applications.hillarisconferences.activity.FilterActivity"
+            android:name="com.applications.lexismeeting.activity.FilterActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.applications.hillarisconferences.activity.UserLoginActivity"
+            android:name="com.applications.lexismeeting.activity.UserLoginActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.applications.hillarisconferences.activity.UserRegistrationActivity"
+            android:name="com.applications.lexismeeting.activity.UserRegistrationActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.applications.hillarisconferences.activity.BrochureDownloadActivity"
+            android:name="com.applications.lexismeeting.activity.BrochureDownloadActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.applications.hillarisconferences.activity.SubmitAbstractActivity"
+            android:name="com.applications.lexismeeting.activity.SubmitAbstractActivity"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="stateAlwaysHidden" />
         <activity
-            android:name="com.applications.hillarisconferences.activity.CheckOutActivity"
+            android:name="com.applications.lexismeeting.activity.CheckOutActivity"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="stateAlwaysHidden" />
         <activity
-            android:name="com.applications.hillarisconferences.activity.PaymentActivity1"
+            android:name="com.applications.lexismeeting.activity.PaymentActivity1"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.applications.hillarisconferences.activity.PersonalInfoActivity"
+            android:name="com.applications.lexismeeting.activity.PersonalInfoActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.applications.hillarisconferences.activity.SplashActivity"
+            android:name="com.applications.lexismeeting.activity.SplashActivity"
             android:screenOrientation="portrait" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -82,10 +82,10 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.applications.hillarisconferences.activity.DashBoardActivity"
+            android:name="com.applications.lexismeeting.activity.DashBoardActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.applications.hillarisconferences.activity.HomeActivity"
+            android:name="com.applications.lexismeeting.activity.HomeActivity"
             android:screenOrientation="portrait"
             android:theme="@style/AppThemeNav" >
             <intent-filter>
@@ -140,7 +140,7 @@
                 <category android:name="android.intent.category.BROWSABLE" />
 
                 <data
-                    android:host="cct.com.applications.hillarisconferences"
+                    android:host="cct.com.applications.lexismeeting"
                     android:scheme="fbconnect" />
             </intent-filter>
         </activity>
@@ -243,7 +243,7 @@
 
         <provider
             android:name="com.google.firebase.provider.FirebaseInitProvider"
-            android:authorities="com.applications.hillarisconferences.firebaseinitprovider"
+            android:authorities="com.applications.lexismeeting.firebaseinitprovider"
             android:exported="false"
             android:initOrder="100" />
 
@@ -261,7 +261,7 @@
         -->
         <provider
             android:name="com.facebook.internal.FacebookInitProvider"
-            android:authorities="com.applications.hillarisconferences.FacebookInitProvider"
+            android:authorities="com.applications.lexismeeting.FacebookInitProvider"
             android:exported="false" />
 
         <receiver
@@ -274,7 +274,7 @@
 
         <provider
             android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
-            android:authorities="com.applications.hillarisconferences.lifecycle-process"
+            android:authorities="com.applications.lexismeeting.lifecycle-process"
             android:exported="false"
             android:multiprocess="true" />
 
