@@ -21,15 +21,15 @@ import java.lang.Override;
 public class FilterActivity_ViewBinding implements Unbinder {
   private FilterActivity target;
 
-  private View view7f0a0197;
+  private View view7f0a01c1;
 
-  private View view7f0a0195;
+  private View view7f0a01bf;
 
-  private View view7f0a0196;
+  private View view7f0a01c0;
 
-  private View view7f0a006a;
+  private View view7f0a006c;
 
-  private View view7f0a006b;
+  private View view7f0a006d;
 
   @UiThread
   public FilterActivity_ViewBinding(FilterActivity target) {
@@ -43,7 +43,7 @@ public class FilterActivity_ViewBinding implements Unbinder {
     View view;
     view = Utils.findRequiredView(source, R.id.rbSubjects, "field 'rbSubjects' and method 'onViewClicked'");
     target.rbSubjects = Utils.castView(view, R.id.rbSubjects, "field 'rbSubjects'", RadioButton.class);
-    view7f0a0197 = view;
+    view7f0a01c1 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -52,7 +52,7 @@ public class FilterActivity_ViewBinding implements Unbinder {
     });
     view = Utils.findRequiredView(source, R.id.rbCountries, "field 'rbCountries' and method 'onViewClicked'");
     target.rbCountries = Utils.castView(view, R.id.rbCountries, "field 'rbCountries'", RadioButton.class);
-    view7f0a0195 = view;
+    view7f0a01bf = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -61,7 +61,7 @@ public class FilterActivity_ViewBinding implements Unbinder {
     });
     view = Utils.findRequiredView(source, R.id.rbMonth, "field 'rbMonth' and method 'onViewClicked'");
     target.rbMonth = Utils.castView(view, R.id.rbMonth, "field 'rbMonth'", RadioButton.class);
-    view7f0a0196 = view;
+    view7f0a01c0 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -78,7 +78,7 @@ public class FilterActivity_ViewBinding implements Unbinder {
     target.monthLayout = Utils.findRequiredViewAsType(source, R.id.monthLayout, "field 'monthLayout'", LinearLayout.class);
     view = Utils.findRequiredView(source, R.id.btnApply, "field 'btnApply' and method 'onViewClicked'");
     target.btnApply = Utils.castView(view, R.id.btnApply, "field 'btnApply'", Button.class);
-    view7f0a006a = view;
+    view7f0a006c = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -87,7 +87,7 @@ public class FilterActivity_ViewBinding implements Unbinder {
     });
     view = Utils.findRequiredView(source, R.id.btnClear, "field 'btnClear' and method 'onViewClicked'");
     target.btnClear = Utils.castView(view, R.id.btnClear, "field 'btnClear'", Button.class);
-    view7f0a006b = view;
+    view7f0a006d = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -117,15 +117,15 @@ public class FilterActivity_ViewBinding implements Unbinder {
     target.btnApply = null;
     target.btnClear = null;
 
-    view7f0a0197.setOnClickListener(null);
-    view7f0a0197 = null;
-    view7f0a0195.setOnClickListener(null);
-    view7f0a0195 = null;
-    view7f0a0196.setOnClickListener(null);
-    view7f0a0196 = null;
-    view7f0a006a.setOnClickListener(null);
-    view7f0a006a = null;
-    view7f0a006b.setOnClickListener(null);
-    view7f0a006b = null;
+    view7f0a01c1.setOnClickListener(null);
+    view7f0a01c1 = null;
+    view7f0a01bf.setOnClickListener(null);
+    view7f0a01bf = null;
+    view7f0a01c0.setOnClickListener(null);
+    view7f0a01c0 = null;
+    view7f0a006c.setOnClickListener(null);
+    view7f0a006c = null;
+    view7f0a006d.setOnClickListener(null);
+    view7f0a006d = null;
   }
 }

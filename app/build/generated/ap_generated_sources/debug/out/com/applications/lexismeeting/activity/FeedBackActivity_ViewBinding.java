@@ -17,7 +17,7 @@ import java.lang.Override;
 public class FeedBackActivity_ViewBinding implements Unbinder {
   private FeedBackActivity target;
 
-  private View view7f0a006c;
+  private View view7f0a006e;
 
   @UiThread
   public FeedBackActivity_ViewBinding(FeedBackActivity target) {
@@ -32,7 +32,7 @@ public class FeedBackActivity_ViewBinding implements Unbinder {
     target.editFirst = Utils.findRequiredViewAsType(source, R.id.editFirst, "field 'editFirst'", TextInputEditText.class);
     view = Utils.findRequiredView(source, R.id.btnDownload, "field 'btnDownload' and method 'onViewClicked'");
     target.btnDownload = Utils.castView(view, R.id.btnDownload, "field 'btnDownload'", Button.class);
-    view7f0a006c = view;
+    view7f0a006e = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -53,7 +53,7 @@ public class FeedBackActivity_ViewBinding implements Unbinder {
     target.btnDownload = null;
     target.progressBar = null;
 
-    view7f0a006c.setOnClickListener(null);
-    view7f0a006c = null;
+    view7f0a006e.setOnClickListener(null);
+    view7f0a006e = null;
   }
 }

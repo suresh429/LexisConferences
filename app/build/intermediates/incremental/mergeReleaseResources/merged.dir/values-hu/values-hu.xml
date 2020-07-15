@@ -69,10 +69,48 @@
     <string msgid="3441753203274453993" name="common_signin_button_text">"Bejelentkezés"</string>
     <string msgid="669893613918351210" name="common_signin_button_text_long">"Bejelentkezés Google-fiókkal"</string>
     <string msgid="8230469354668895088" name="copy_toast_msg">"Link vágólapra másolva"</string>
+    <string name="exo_controls_fastforward_description">Előretekerés</string>
+    <string name="exo_controls_fullscreen_description">Teljes képernyős mód</string>
+    <string name="exo_controls_next_description">Következő szám</string>
+    <string name="exo_controls_pause_description">Szüneteltetés</string>
+    <string name="exo_controls_play_description">Lejátszás</string>
+    <string name="exo_controls_previous_description">Előző szám</string>
+    <string name="exo_controls_repeat_all_description">Összes szám ismétlése</string>
+    <string name="exo_controls_repeat_off_description">Nincs ismétlés</string>
+    <string name="exo_controls_repeat_one_description">Egy szám ismétlése</string>
+    <string name="exo_controls_rewind_description">Visszatekerés</string>
+    <string name="exo_controls_shuffle_off_description">Keverés kikapcsolva</string>
+    <string name="exo_controls_shuffle_on_description">Keverés bekapcsolva</string>
+    <string name="exo_controls_stop_description">Leállítás</string>
+    <string name="exo_controls_vr_description">VR-mód</string>
+    <string name="exo_download_completed">A letöltés befejeződött</string>
+    <string name="exo_download_description">Letöltés</string>
+    <string name="exo_download_downloading">Letöltés folyamatban</string>
+    <string name="exo_download_failed">Nem sikerült a letöltés</string>
+    <string name="exo_download_notification_channel_name">Letöltések</string>
+    <string name="exo_download_removing">Letöltések törlése folyamatban</string>
+    <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
+    <string name="exo_track_mono">Monó</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
+    <string name="exo_track_role_alternate">Alternatív</string>
+    <string name="exo_track_role_closed_captions">Felirat</string>
+    <string name="exo_track_role_commentary">Kommentár</string>
+    <string name="exo_track_role_supplementary">Kiegészítő</string>
+    <string name="exo_track_selection_auto">Automatikus</string>
+    <string name="exo_track_selection_none">Nincs</string>
+    <string name="exo_track_selection_title_audio">Hang</string>
+    <string name="exo_track_selection_title_text">Szöveg</string>
+    <string name="exo_track_selection_title_video">Videó</string>
+    <string name="exo_track_stereo">Sztereó</string>
+    <string name="exo_track_surround">Térhatású hangzás</string>
+    <string name="exo_track_surround_5_point_1">5.1-es térhatású hangzás</string>
+    <string name="exo_track_surround_7_point_1">7.1-es térhatású hangzás</string>
+    <string name="exo_track_unknown">Ismeretlen</string>
     <string msgid="2615365786337886368" name="fallback_menu_item_copy_link">"Link másolása"</string>
     <string msgid="8984733760067120953" name="fallback_menu_item_open_in_browser">"Megnyitás böngészőben"</string>
     <string msgid="271185644269364308" name="fallback_menu_item_share_link">"Link megosztása"</string>
     <string msgid="4133737464567140336" name="fcm_fallback_notification_channel_label">"Egyéb"</string>
     <string msgid="730395136688082741" name="search_menu_title">"Keresés"</string>
-    <string msgid="8106346172024741305" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
 </resources>

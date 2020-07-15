@@ -445,14 +445,14 @@ public class SubmitAbstractActivity extends AppCompatActivity implements Progres
         RequestBody phone1 = RequestBody.create(MediaType.parse("text/plain"), phone);
         RequestBody country1 = RequestBody.create(MediaType.parse("text/plain"), country);
         RequestBody category1 = RequestBody.create(MediaType.parse("text/plain"), category);
-        RequestBody trackId1 = RequestBody.create(MediaType.parse("text/plain"), trackId);
+        RequestBody trackName1 = RequestBody.create(MediaType.parse("text/plain"), trackName);
         RequestBody address1 = RequestBody.create(MediaType.parse("text/plain"), address);
         RequestBody date1 = RequestBody.create(MediaType.parse("text/plain"), date);
         RequestBody app_user_id1 = RequestBody.create(MediaType.parse("text/plain"), app_user_id);
         RequestBody source1 = RequestBody.create(MediaType.parse("text/plain"), "android");
 
         Call<SubmitAbstract> call = apiInterface.processDataSendAbstract(fileToUpload, conf_id1, title1, name1, country1, email1,
-                phone1, category1, trackId1, address1, date1, app_user_id1, source1);
+                phone1, category1, trackName1, address1, date1, app_user_id1, source1);
 
         call.enqueue(new Callback<SubmitAbstract>() {
             @Override

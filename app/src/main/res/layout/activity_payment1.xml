@@ -173,9 +173,9 @@
                         <LinearLayout
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
-                            android:gravity="center"
+                            android:gravity="center_vertical"
                             android:orientation="horizontal"
-                            android:weightSum="2.5">
+                            android:weightSum="3.5">
 
 
                             <TextView
@@ -202,7 +202,17 @@
                                 android:textSize="10sp"
                                 tools:ignore="SmallSp" />
 
-
+                            <TextView
+                                android:id="@+id/txtDate3"
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1"
+                                android:fontFamily="@font/proxima_nova_bold"
+                                android:gravity="center"
+                                android:padding="5dp"
+                                android:textColor="@color/black"
+                                android:textSize="10sp"
+                                tools:ignore="SmallSp" />
 
                             <TextView
                                 android:id="@+id/txthide"
@@ -221,7 +231,7 @@
                             android:gravity="center"
                             android:orientation="horizontal"
                             android:padding="5dp"
-                            android:weightSum="2.5">
+                            android:weightSum="3.5">
 
                             <TextView
                                 android:id="@+id/txtPrice1"
@@ -247,7 +257,17 @@
                                 android:textSize="12sp"
                                 tools:ignore="SmallSp" />
 
-
+                            <TextView
+                                android:id="@+id/txtPrice3"
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1"
+                                android:fontFamily="@font/proxima_nova_bold"
+                                android:gravity="center"
+                                android:padding="2dp"
+                                android:textColor="@color/red"
+                                android:textSize="12sp"
+                                tools:ignore="SmallSp" />
 
                             <LinearLayout
                                 android:layout_width="0dp"
@@ -268,7 +288,6 @@
 
 
                         </LinearLayout>
-
 
                     </LinearLayout>
                 </androidx.cardview.widget.CardView>

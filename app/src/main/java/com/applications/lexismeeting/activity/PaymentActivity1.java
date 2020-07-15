@@ -102,6 +102,10 @@ public class PaymentActivity1 extends AppCompatActivity {
     double totalCount = 0.00;
     int catPrice = 0, finalTotal = 0;
     String productType, actionTitle, shorttitle, conf_type;
+    @BindView(R.id.txtDate3)
+    TextView txtDate3;
+    @BindView(R.id.txtPrice3)
+    TextView txtPrice3;
 
 
     @Override
@@ -122,7 +126,8 @@ public class PaymentActivity1 extends AppCompatActivity {
             emailID = getIntent().getStringExtra("emailID");
             country = getIntent().getStringExtra("country");
         }
-        currentDate = new SimpleDateFormat("MMMM dd, yyyy", Locale.getDefault()).format(new Date());
+        currentDate = new SimpleDateFormat("yyyy-MM-dd", Locale.getDefault()).format(new Date());
+        Log.d(TAG, "onCreate: " + currentDate);
 
 
         currencyType = "\u00a3";
@@ -268,7 +273,8 @@ public class PaymentActivity1 extends AppCompatActivity {
                     for (ConferenceProducts.RegistrationProductsBean conferenceProducts : registrationProductsBeans) {
 
                         txtDate1.setText("On/Before\n" + conferenceProducts.getEarly());
-                        txtDate2.setText("Final Call\n" + conferenceProducts.getFinalX());
+                        txtDate2.setText("Normal Call\n" + conferenceProducts.getNormal());
+                        txtDate3.setText("Final Call\n" + conferenceProducts.getFinalX());
                         // txtDate3.setText("Final Call\n" + conferenceProducts.getFinalX());
 
 
@@ -355,7 +361,7 @@ public class PaymentActivity1 extends AppCompatActivity {
 
                             txtPrice1.setText(categories.getCurrencyType() + categories.getPrice1());
                             txtPrice2.setText(categories.getCurrencyType() + categories.getPrice2());
-
+                            txtPrice3.setText(categories.getCurrencyType() + categories.getPrice3());
                             textAdd1.setChecked(false);
 
 
@@ -371,12 +377,17 @@ public class PaymentActivity1 extends AppCompatActivity {
                                 txtPrice2.setBackgroundResource(R.drawable.rounded_no_ouline);
                                 catPrice = 0;
 
+                            } else {
+
+                                txtPrice3.setTextColor(Color.parseColor("#ffe42828"));
+                                txtPrice3.setBackgroundResource(R.drawable.rounded_no_ouline);
+                                catPrice = 0;
                             }
 
                             try {
 
                                 @SuppressLint("SimpleDateFormat")
-                                SimpleDateFormat formatter = new SimpleDateFormat("MMMM dd, yyyy");
+                                SimpleDateFormat formatter = new SimpleDateFormat("yyyy-MM-dd");
 
                                 Date date1 = formatter.parse(currentDate);
 

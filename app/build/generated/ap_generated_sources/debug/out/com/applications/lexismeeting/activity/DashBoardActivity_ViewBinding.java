@@ -17,15 +17,17 @@ import java.lang.Override;
 public class DashBoardActivity_ViewBinding implements Unbinder {
   private DashBoardActivity target;
 
-  private View view7f0a012e;
+  private View view7f0a0154;
 
-  private View view7f0a0133;
+  private View view7f0a015a;
 
-  private View view7f0a0132;
+  private View view7f0a0159;
 
-  private View view7f0a0134;
+  private View view7f0a015b;
 
-  private View view7f0a0131;
+  private View view7f0a0157;
+
+  private View view7f0a0158;
 
   @UiThread
   public DashBoardActivity_ViewBinding(DashBoardActivity target) {
@@ -39,7 +41,7 @@ public class DashBoardActivity_ViewBinding implements Unbinder {
     View view;
     view = Utils.findRequiredView(source, R.id.linearBrochureDownload, "field 'linearBrochureDownload' and method 'onViewClicked'");
     target.linearBrochureDownload = Utils.castView(view, R.id.linearBrochureDownload, "field 'linearBrochureDownload'", LinearLayout.class);
-    view7f0a012e = view;
+    view7f0a0154 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -48,7 +50,7 @@ public class DashBoardActivity_ViewBinding implements Unbinder {
     });
     view = Utils.findRequiredView(source, R.id.linearSessionsTracks, "field 'linearSessionsTracks' and method 'onViewClicked'");
     target.linearSessionsTracks = Utils.castView(view, R.id.linearSessionsTracks, "field 'linearSessionsTracks'", LinearLayout.class);
-    view7f0a0133 = view;
+    view7f0a015a = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -66,7 +68,7 @@ public class DashBoardActivity_ViewBinding implements Unbinder {
     target.progressBar1 = Utils.findRequiredViewAsType(source, R.id.progressBarFull, "field 'progressBar1'", LinearLayout.class);
     view = Utils.findRequiredView(source, R.id.linearRegister, "field 'linearRegister' and method 'onViewClicked'");
     target.linearRegister = Utils.castView(view, R.id.linearRegister, "field 'linearRegister'", LinearLayout.class);
-    view7f0a0132 = view;
+    view7f0a0159 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -75,7 +77,7 @@ public class DashBoardActivity_ViewBinding implements Unbinder {
     });
     view = Utils.findRequiredView(source, R.id.linearSubmitAbstract, "field 'linearSubmitAbstract' and method 'onViewClicked'");
     target.linearSubmitAbstract = Utils.castView(view, R.id.linearSubmitAbstract, "field 'linearSubmitAbstract'", LinearLayout.class);
-    view7f0a0134 = view;
+    view7f0a015b = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -84,7 +86,16 @@ public class DashBoardActivity_ViewBinding implements Unbinder {
     });
     view = Utils.findRequiredView(source, R.id.linearFeedback, "field 'linearFeedback' and method 'onViewClicked'");
     target.linearFeedback = Utils.castView(view, R.id.linearFeedback, "field 'linearFeedback'", LinearLayout.class);
-    view7f0a0131 = view;
+    view7f0a0157 = view;
+    view.setOnClickListener(new DebouncingOnClickListener() {
+      @Override
+      public void doClick(View p0) {
+        target.onViewClicked(p0);
+      }
+    });
+    view = Utils.findRequiredView(source, R.id.linearPresentation, "field 'linearPresentation' and method 'onViewClicked'");
+    target.linearPresentation = Utils.castView(view, R.id.linearPresentation, "field 'linearPresentation'", LinearLayout.class);
+    view7f0a0158 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -114,16 +125,19 @@ public class DashBoardActivity_ViewBinding implements Unbinder {
     target.linearRegister = null;
     target.linearSubmitAbstract = null;
     target.linearFeedback = null;
+    target.linearPresentation = null;
 
-    view7f0a012e.setOnClickListener(null);
-    view7f0a012e = null;
-    view7f0a0133.setOnClickListener(null);
-    view7f0a0133 = null;
-    view7f0a0132.setOnClickListener(null);
-    view7f0a0132 = null;
-    view7f0a0134.setOnClickListener(null);
-    view7f0a0134 = null;
-    view7f0a0131.setOnClickListener(null);
-    view7f0a0131 = null;
+    view7f0a0154.setOnClickListener(null);
+    view7f0a0154 = null;
+    view7f0a015a.setOnClickListener(null);
+    view7f0a015a = null;
+    view7f0a0159.setOnClickListener(null);
+    view7f0a0159 = null;
+    view7f0a015b.setOnClickListener(null);
+    view7f0a015b = null;
+    view7f0a0157.setOnClickListener(null);
+    view7f0a0157 = null;
+    view7f0a0158.setOnClickListener(null);
+    view7f0a0158 = null;
   }
 }

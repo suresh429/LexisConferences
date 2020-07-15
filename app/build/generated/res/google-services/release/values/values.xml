@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="default_web_client_id" translatable="false">88493436875-dc9hvd7k2b74pgfv6v79qfh37vmcu8e0.apps.googleusercontent.com</string>
-    <string name="firebase_database_url" translatable="false">https://hillarisconferences.firebaseio.com</string>
-    <string name="gcm_defaultSenderId" translatable="false">88493436875</string>
-    <string name="google_api_key" translatable="false">AIzaSyD0TbKiN4tFHCF3mNlO1bEeWsldvQd5IVQ</string>
-    <string name="google_app_id" translatable="false">1:88493436875:android:cfd08612607cbba681504e</string>
-    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD0TbKiN4tFHCF3mNlO1bEeWsldvQd5IVQ</string>
-    <string name="google_storage_bucket" translatable="false">hillarisconferences.appspot.com</string>
-    <string name="project_id" translatable="false">hillarisconferences</string>
+    <string name="default_web_client_id" translatable="false">454936317475-1jio9vg0g6naqr0co68u4bo3jvbn0210.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://lexismeeting-d3118.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">454936317475</string>
+    <string name="google_api_key" translatable="false">AIzaSyABw0RgNq-OCAAfjRoHeZiHQL-iKSSsfyU</string>
+    <string name="google_app_id" translatable="false">1:454936317475:android:e7923220be968c47c36b96</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyABw0RgNq-OCAAfjRoHeZiHQL-iKSSsfyU</string>
+    <string name="google_storage_bucket" translatable="false">lexismeeting-d3118.appspot.com</string>
+    <string name="project_id" translatable="false">lexismeeting-d3118</string>
 </resources>

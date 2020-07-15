@@ -20,12 +20,16 @@
         "source": "E:\\Android projects\\LexisMeeting\\app\\src\\main\\res\\drawable\\ic_date_range_blue.xml"
     },
     {
-        "merged": "E:\\Android projects\\LexisMeeting\\app\\build\\intermediates\\res\\merged\\debug\\layout_banner_item.xml.flat",
-        "source": "E:\\Android projects\\LexisMeeting\\app\\src\\main\\res\\layout\\banner_item.xml"
+        "merged": "E:\\Android projects\\LexisMeeting\\app\\build\\intermediates\\res\\merged\\debug\\xml_file_provider_paths.xml.flat",
+        "source": "E:\\Android projects\\LexisMeeting\\app\\src\\main\\res\\xml\\file_provider_paths.xml"
     },
     {
         "merged": "E:\\Android projects\\LexisMeeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_uncheck_circle.xml.flat",
         "source": "E:\\Android projects\\LexisMeeting\\app\\src\\main\\res\\drawable\\ic_uncheck_circle.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\LexisMeeting\\app\\build\\intermediates\\res\\merged\\debug\\layout_banner_item.xml.flat",
+        "source": "E:\\Android projects\\LexisMeeting\\app\\src\\main\\res\\layout\\banner_item.xml"
     },
     {
         "merged": "E:\\Android projects\\LexisMeeting\\app\\build\\intermediates\\res\\merged\\debug\\layout_row1.xml.flat",
@@ -44,20 +48,20 @@
         "source": "E:\\Android projects\\LexisMeeting\\app\\src\\main\\res\\layout\\activity_home.xml"
     },
     {
-        "merged": "E:\\Android projects\\LexisMeeting\\app\\build\\intermediates\\res\\merged\\debug\\layout_success_payment.xml.flat",
-        "source": "E:\\Android projects\\LexisMeeting\\app\\src\\main\\res\\layout\\success_payment.xml"
-    },
-    {
         "merged": "E:\\Android projects\\LexisMeeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_networking.xml.flat",
         "source": "E:\\Android projects\\LexisMeeting\\app\\src\\main\\res\\drawable\\ic_networking.xml"
     },
     {
-        "merged": "E:\\Android projects\\LexisMeeting\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "E:\\Android projects\\LexisMeeting\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "E:\\Android projects\\LexisMeeting\\app\\build\\intermediates\\res\\merged\\debug\\layout_success_payment.xml.flat",
+        "source": "E:\\Android projects\\LexisMeeting\\app\\src\\main\\res\\layout\\success_payment.xml"
     },
     {
         "merged": "E:\\Android projects\\LexisMeeting\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_payment.xml.flat",
         "source": "E:\\Android projects\\LexisMeeting\\app\\src\\main\\res\\layout\\activity_payment.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\LexisMeeting\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "E:\\Android projects\\LexisMeeting\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
         "merged": "E:\\Android projects\\LexisMeeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_ouline_blue.xml.flat",
@@ -98,6 +102,14 @@
     {
         "merged": "E:\\Android projects\\LexisMeeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_remove_24.xml.flat",
         "source": "E:\\Android projects\\LexisMeeting\\app\\src\\main\\res\\drawable\\ic_baseline_remove_24.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\LexisMeeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon.jpg.flat",
+        "source": "E:\\Android projects\\LexisMeeting\\app\\src\\main\\res\\drawable\\icon.jpg"
+    },
+    {
+        "merged": "E:\\Android projects\\LexisMeeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_keyboard_voice_24.xml.flat",
+        "source": "E:\\Android projects\\LexisMeeting\\app\\src\\main\\res\\drawable\\ic_baseline_keyboard_voice_24.xml"
     },
     {
         "merged": "E:\\Android projects\\LexisMeeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_success.xml.flat",
@@ -272,16 +284,20 @@
         "source": "E:\\Android projects\\LexisMeeting\\app\\src\\main\\res\\layout\\nav_header_home.xml"
     },
     {
+        "merged": "E:\\Android projects\\LexisMeeting\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_submit_audio.xml.flat",
+        "source": "E:\\Android projects\\LexisMeeting\\app\\src\\main\\res\\layout\\activity_submit_audio.xml"
+    },
+    {
         "merged": "E:\\Android projects\\LexisMeeting\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_home_list2.xml.flat",
         "source": "E:\\Android projects\\LexisMeeting\\app\\src\\main\\res\\layout\\item_home_list2.xml"
     },
     {
-        "merged": "E:\\Android projects\\LexisMeeting\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_contact_us.xml.flat",
-        "source": "E:\\Android projects\\LexisMeeting\\app\\src\\main\\res\\layout\\activity_contact_us.xml"
-    },
-    {
         "merged": "E:\\Android projects\\LexisMeeting\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
         "source": "E:\\Android projects\\LexisMeeting\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Android projects\\LexisMeeting\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_contact_us.xml.flat",
+        "source": "E:\\Android projects\\LexisMeeting\\app\\src\\main\\res\\layout\\activity_contact_us.xml"
     },
     {
         "merged": "E:\\Android projects\\LexisMeeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_web.xml.flat",
@@ -312,12 +328,12 @@
         "source": "E:\\Android projects\\LexisMeeting\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "E:\\Android projects\\LexisMeeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_hotel.xml.flat",
-        "source": "E:\\Android projects\\LexisMeeting\\app\\src\\main\\res\\drawable\\ic_hotel.xml"
-    },
-    {
         "merged": "E:\\Android projects\\LexisMeeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_session_recording.xml.flat",
         "source": "E:\\Android projects\\LexisMeeting\\app\\src\\main\\res\\drawable\\ic_session_recording.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\LexisMeeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_hotel.xml.flat",
+        "source": "E:\\Android projects\\LexisMeeting\\app\\src\\main\\res\\drawable\\ic_hotel.xml"
     },
     {
         "merged": "E:\\Android projects\\LexisMeeting\\app\\build\\intermediates\\res\\merged\\debug\\layout_group_list_layout_my_tracks.xml.flat",
@@ -340,12 +356,12 @@
         "source": "E:\\Android projects\\LexisMeeting\\app\\src\\main\\res\\drawable\\ic_chat.xml"
     },
     {
-        "merged": "E:\\Android projects\\LexisMeeting\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_registrations_list.xml.flat",
-        "source": "E:\\Android projects\\LexisMeeting\\app\\src\\main\\res\\layout\\fragment_registrations_list.xml"
-    },
-    {
         "merged": "E:\\Android projects\\LexisMeeting\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_filter.xml.flat",
         "source": "E:\\Android projects\\LexisMeeting\\app\\src\\main\\res\\layout\\activity_filter.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\LexisMeeting\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_registrations_list.xml.flat",
+        "source": "E:\\Android projects\\LexisMeeting\\app\\src\\main\\res\\layout\\fragment_registrations_list.xml"
     },
     {
         "merged": "E:\\Android projects\\LexisMeeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_home_black_24dp.xml.flat",
@@ -356,12 +372,12 @@
         "source": "E:\\Android projects\\LexisMeeting\\app\\src\\main\\res\\font\\proxima_nova_regular.otf"
     },
     {
-        "merged": "E:\\Android projects\\LexisMeeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_close_white_24dp.xml.flat",
-        "source": "E:\\Android projects\\LexisMeeting\\app\\src\\main\\res\\drawable\\ic_close_white_24dp.xml"
-    },
-    {
         "merged": "E:\\Android projects\\LexisMeeting\\app\\build\\intermediates\\res\\merged\\debug\\layout_group_list_layout_my_countries.xml.flat",
         "source": "E:\\Android projects\\LexisMeeting\\app\\src\\main\\res\\layout\\group_list_layout_my_countries.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\LexisMeeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_close_white_24dp.xml.flat",
+        "source": "E:\\Android projects\\LexisMeeting\\app\\src\\main\\res\\drawable\\ic_close_white_24dp.xml"
     },
     {
         "merged": "E:\\Android projects\\LexisMeeting\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
@@ -384,12 +400,12 @@
         "source": "E:\\Android projects\\LexisMeeting\\app\\src\\main\\res\\drawable\\ovalshape.xml"
     },
     {
-        "merged": "E:\\Android projects\\LexisMeeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_check_circle.xml.flat",
-        "source": "E:\\Android projects\\LexisMeeting\\app\\src\\main\\res\\drawable\\ic_check_circle.xml"
-    },
-    {
         "merged": "E:\\Android projects\\LexisMeeting\\app\\build\\intermediates\\res\\merged\\debug\\xml_searchable.xml.flat",
         "source": "E:\\Android projects\\LexisMeeting\\app\\src\\main\\res\\xml\\searchable.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\LexisMeeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_check_circle.xml.flat",
+        "source": "E:\\Android projects\\LexisMeeting\\app\\src\\main\\res\\drawable\\ic_check_circle.xml"
     },
     {
         "merged": "E:\\Android projects\\LexisMeeting\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_check_out.xml.flat",
@@ -404,12 +420,12 @@
         "source": "E:\\Android projects\\LexisMeeting\\app\\src\\main\\res\\layout\\view_item.xml"
     },
     {
-        "merged": "E:\\Android projects\\LexisMeeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_checkin.xml.flat",
-        "source": "E:\\Android projects\\LexisMeeting\\app\\src\\main\\res\\drawable\\ic_checkin.xml"
-    },
-    {
         "merged": "E:\\Android projects\\LexisMeeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable_image_not_available.jpg.flat",
         "source": "E:\\Android projects\\LexisMeeting\\app\\src\\main\\res\\drawable\\image_not_available.jpg"
+    },
+    {
+        "merged": "E:\\Android projects\\LexisMeeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_checkin.xml.flat",
+        "source": "E:\\Android projects\\LexisMeeting\\app\\src\\main\\res\\drawable\\ic_checkin.xml"
     },
     {
         "merged": "E:\\Android projects\\LexisMeeting\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_home.xml.flat",
@@ -424,12 +440,12 @@
         "source": "E:\\Android projects\\LexisMeeting\\app\\src\\main\\res\\drawable\\custom_progress_bar.xml"
     },
     {
-        "merged": "E:\\Android projects\\LexisMeeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_button.xml.flat",
-        "source": "E:\\Android projects\\LexisMeeting\\app\\src\\main\\res\\drawable\\rounded_button.xml"
-    },
-    {
         "merged": "E:\\Android projects\\LexisMeeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_date_range.xml.flat",
         "source": "E:\\Android projects\\LexisMeeting\\app\\src\\main\\res\\drawable\\ic_date_range.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\LexisMeeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_button.xml.flat",
+        "source": "E:\\Android projects\\LexisMeeting\\app\\src\\main\\res\\drawable\\rounded_button.xml"
     },
     {
         "merged": "E:\\Android projects\\LexisMeeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_bookmark_black.xml.flat",
@@ -452,12 +468,12 @@
         "source": "E:\\Android projects\\LexisMeeting\\app\\src\\main\\res\\layout\\add_on_item.xml"
     },
     {
-        "merged": "E:\\Android projects\\LexisMeeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_travel.xml.flat",
-        "source": "E:\\Android projects\\LexisMeeting\\app\\src\\main\\res\\drawable\\ic_travel.xml"
-    },
-    {
         "merged": "E:\\Android projects\\LexisMeeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_shedule.xml.flat",
         "source": "E:\\Android projects\\LexisMeeting\\app\\src\\main\\res\\drawable\\ic_shedule.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\LexisMeeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_travel.xml.flat",
+        "source": "E:\\Android projects\\LexisMeeting\\app\\src\\main\\res\\drawable\\ic_travel.xml"
     },
     {
         "merged": "E:\\Android projects\\LexisMeeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_feedback_24.xml.flat",
@@ -484,12 +500,16 @@
         "source": "E:\\Android projects\\LexisMeeting\\app\\src\\main\\res\\drawable\\rbtn_textselector_filter.xml"
     },
     {
+        "merged": "E:\\Android projects\\LexisMeeting\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_registration.xml.flat",
+        "source": "E:\\Android projects\\LexisMeeting\\app\\src\\main\\res\\layout\\activity_registration.xml"
+    },
+    {
         "merged": "E:\\Android projects\\LexisMeeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable_placeholder2.png.flat",
         "source": "E:\\Android projects\\LexisMeeting\\app\\src\\main\\res\\drawable\\placeholder2.png"
     },
     {
-        "merged": "E:\\Android projects\\LexisMeeting\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_registration.xml.flat",
-        "source": "E:\\Android projects\\LexisMeeting\\app\\src\\main\\res\\layout\\activity_registration.xml"
+        "merged": "E:\\Android projects\\LexisMeeting\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_submit_video.xml.flat",
+        "source": "E:\\Android projects\\LexisMeeting\\app\\src\\main\\res\\layout\\activity_submit_video.xml"
     },
     {
         "merged": "E:\\Android projects\\LexisMeeting\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
@@ -514,6 +534,10 @@
     {
         "merged": "E:\\Android projects\\LexisMeeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_overlay.xml.flat",
         "source": "E:\\Android projects\\LexisMeeting\\app\\src\\main\\res\\drawable\\bg_overlay.xml"
+    },
+    {
+        "merged": "E:\\Android projects\\LexisMeeting\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_submit_presentation.xml.flat",
+        "source": "E:\\Android projects\\LexisMeeting\\app\\src\\main\\res\\layout\\activity_submit_presentation.xml"
     },
     {
         "merged": "E:\\Android projects\\LexisMeeting\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_registrations_list.xml.flat",

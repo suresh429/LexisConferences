@@ -48,6 +48,8 @@ public class PaymentActivity1_ViewBinding implements Unbinder {
     target.btnProceed = Utils.findRequiredViewAsType(source, R.id.btnProceed, "field 'btnProceed'", Button.class);
     target.bottamLayout = Utils.findRequiredViewAsType(source, R.id.bottamLayout, "field 'bottamLayout'", LinearLayout.class);
     target.progressBar = Utils.findRequiredViewAsType(source, R.id.progressBar, "field 'progressBar'", LinearLayout.class);
+    target.txtDate3 = Utils.findRequiredViewAsType(source, R.id.txtDate3, "field 'txtDate3'", TextView.class);
+    target.txtPrice3 = Utils.findRequiredViewAsType(source, R.id.txtPrice3, "field 'txtPrice3'", TextView.class);
   }
 
   @Override
@@ -75,5 +77,7 @@ public class PaymentActivity1_ViewBinding implements Unbinder {
     target.btnProceed = null;
     target.bottamLayout = null;
     target.progressBar = null;
+    target.txtDate3 = null;
+    target.txtPrice3 = null;
   }
 }

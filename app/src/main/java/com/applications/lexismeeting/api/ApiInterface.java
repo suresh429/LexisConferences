@@ -12,6 +12,7 @@ import com.applications.lexismeeting.models.PaymentStripe;
 import com.applications.lexismeeting.models.RegistrationsListResponse;
 import com.applications.lexismeeting.models.Sessions;
 import com.applications.lexismeeting.models.SubmitAbstract;
+import com.applications.lexismeeting.models.SubmitAudioVideo;
 import com.applications.lexismeeting.models.Template;
 import com.applications.lexismeeting.models.TrackName;
 import com.applications.lexismeeting.models.UserCreation;
@@ -96,11 +97,28 @@ public interface ApiInterface {
             @Part("email") RequestBody email,
             @Part("phone") RequestBody phone,
             @Part("category") RequestBody category,
-            @Part("track_id") RequestBody track_id,
+            @Part("track_name") RequestBody track_name,
             @Part("address") RequestBody address,
             @Part("date") RequestBody date,
             @Part("app_user_id") RequestBody app_user_id,
             @Part("source") RequestBody source);
+
+
+    @Multipart
+    @POST("api/conference/audio_video_submission")
+    Call<SubmitAudioVideo> processDataSendAudioVideo(
+            @Part MultipartBody.Part file,
+            @Part("conf_id") RequestBody conf_id,
+            @Part("title") RequestBody title,
+            @Part("name") RequestBody name,
+            @Part("country") RequestBody country,
+            @Part("email") RequestBody email,
+            @Part("phone") RequestBody phone,
+            @Part("address") RequestBody address,
+            @Part("date") RequestBody date,
+            @Part("app_user_id") RequestBody app_user_id,
+            @Part("source") RequestBody source);
+
 
 
 
