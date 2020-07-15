@@ -27,6 +27,15 @@
         tools:ignore="GoogleAppIndexingWarning"
         tools:targetApi="m">
         <activity
+            android:name="com.applications.lexismeeting.activity.SubmitPresentationActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.applications.lexismeeting.activity.SubmitAudioActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.applications.lexismeeting.activity.SubmitVideoActivity"
+            android:screenOrientation="portrait" />
+        <activity
             android:name="com.applications.lexismeeting.activity.RegistrationsListActivity"
             android:label="@string/title_activity_registrations_list"
             android:screenOrientation="portrait" />
