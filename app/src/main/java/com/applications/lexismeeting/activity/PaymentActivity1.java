@@ -292,7 +292,7 @@ public class PaymentActivity1 extends AppCompatActivity {
                                         "$",
                                         conferenceProducts.getType(),
                                         conferenceProducts.getEarly(),
-                                        "",
+                                        conferenceProducts.getNormal(),
                                         conferenceProducts.getFinalX(), "remove"));
                             }
 
@@ -310,7 +310,7 @@ public class PaymentActivity1 extends AppCompatActivity {
                                         "\u20ac",
                                         conferenceProducts.getType(),
                                         conferenceProducts.getEarly(),
-                                        "",
+                                        conferenceProducts.getNormal(),
                                         conferenceProducts.getFinalX(), "remove"));
                             }
 
@@ -329,7 +329,7 @@ public class PaymentActivity1 extends AppCompatActivity {
                                         "\u00a3",
                                         conferenceProducts.getType(),
                                         conferenceProducts.getEarly(),
-                                        "",
+                                        conferenceProducts.getNormal(),
                                         conferenceProducts.getFinalX(), "remove"));
                             }
 
@@ -455,12 +455,20 @@ public class PaymentActivity1 extends AppCompatActivity {
                                             Log.d(TAG, "bind: " + "price11");
                                             catPrice = Integer.parseInt(categories.getPrice1());
 
-                                        } else {
-                                            productType = "final";
+                                        }  else if (txtPrice2.isEnabled()) {
+
+                                            productType = "normal";
                                             txtPrice2.setTextColor(Color.parseColor("#4CAF50"));
                                             txtPrice2.setBackgroundResource(R.drawable.rounded_ouline);
-                                            Log.d(TAG, "bind: " + "price22");
+                                            Log.d(TAG, "bind: " + "price11");
                                             catPrice = Integer.parseInt(categories.getPrice2());
+
+                                        }else {
+                                            productType = "final";
+                                            txtPrice3.setTextColor(Color.parseColor("#4CAF50"));
+                                            txtPrice3.setBackgroundResource(R.drawable.rounded_ouline);
+                                            Log.d(TAG, "bind: " + "price22");
+                                            catPrice = Integer.parseInt(categories.getPrice3());
 
                                         }
 
@@ -478,10 +486,16 @@ public class PaymentActivity1 extends AppCompatActivity {
                                             txtPrice1.setBackgroundResource(R.drawable.rounded_no_ouline);
                                             catPrice = 0;
 
-                                        } else {
+                                        } else if (txtPrice2.isEnabled()) {
 
                                             txtPrice2.setTextColor(Color.parseColor("#ffe42828"));
                                             txtPrice2.setBackgroundResource(R.drawable.rounded_no_ouline);
+                                            catPrice = 0;
+
+                                        } else {
+
+                                            txtPrice3.setTextColor(Color.parseColor("#ffe42828"));
+                                            txtPrice3.setBackgroundResource(R.drawable.rounded_no_ouline);
                                             catPrice = 0;
 
                                         }
